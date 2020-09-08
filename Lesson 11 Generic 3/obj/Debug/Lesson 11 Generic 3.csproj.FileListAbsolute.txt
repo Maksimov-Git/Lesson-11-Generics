@@ -1,0 +1,6 @@
+F:\обучение С#\программирование в информационных системах\Lesson 11 Generics\Lesson 11 Generic 3\bin\Debug\Lesson 11 Generic 3.exe.config
+F:\обучение С#\программирование в информационных системах\Lesson 11 Generics\Lesson 11 Generic 3\bin\Debug\Lesson 11 Generic 3.exe
+F:\обучение С#\программирование в информационных системах\Lesson 11 Generics\Lesson 11 Generic 3\bin\Debug\Lesson 11 Generic 3.pdb
+F:\обучение С#\программирование в информационных системах\Lesson 11 Generics\Lesson 11 Generic 3\obj\Debug\Lesson 11 Generic 3.csproj.CoreCompileInputs.cache
+F:\обучение С#\программирование в информационных системах\Lesson 11 Generics\Lesson 11 Generic 3\obj\Debug\Lesson 11 Generic 3.exe
+F:\обучение С#\программирование в информационных системах\Lesson 11 Generics\Lesson 11 Generic 3\obj\Debug\Lesson 11 Generic 3.pdb
